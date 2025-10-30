@@ -1,5 +1,9 @@
 # Change Log
 
+## v0.0.10
+
+- Bump zprint to v1.3.0
+
 ## v0.0.9
 
 - Bump zprint to v1.2.9
